@@ -1,6 +1,6 @@
 # eokoee
 
-> A Vue.js project
+> Projeto para consumir uma API com Webpack e VueJs
 
 ## Build Setup
 
@@ -14,5 +14,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
